@@ -19,7 +19,7 @@ bluestar.meow()
 oberon.woof()
 ```
 
-It seems that there is no problem at all, but what if there are a hundred kinds of animals and you need all of them to communicate (I only list out ten animals, imagine the difficulty of developing  with more and more animals)
+It seems that there is no problem at all, but what if there are a hundred kinds of animals and you need all of them to communicate (I only list out five animals, imagine the difficulty of developing  with more and more animals)
 
 ```mermaid
 classDiagram
@@ -91,7 +91,7 @@ stefano.communicate()
 
 ## Reference
 
-[初探設計模式 by Daniel Wu](https://ithelp.ithome.com.tw/users/20112528/ironman/2113)
+[初探設計模式-Day 2 by Daniel Wu](https://ithelp.ithome.com.tw/articles/10202075)
 
 [Factory Method](https://refactoring.guru/design-patterns/factory-method)
 
